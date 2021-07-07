@@ -12,7 +12,7 @@
 You have a bunch of decorations for various holidays organized by season.
 
 ```ruby
-holiday_supplies = {
+Hashes Manipulation Lab
   :winter => {
     :christmas => ["Lights", "Wreath"],
     :new_years => ["Party Hats"]
